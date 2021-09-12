@@ -14,7 +14,7 @@ Data used:
 #
 
 ## Time-Series Analysis:
-[Time-Series Starter Notebook](Starter_Code/time_series_analysis.ipynb)
+[Time-Series Starter Notebook](time_series_analysis.ipynb)
 
 Initial Plot of Raw Time-Series Price data:
 ![Raw Data](Images/raw_data_plot.png)
@@ -85,6 +85,8 @@ Questions to Answer:
 #
 
 ## Linear Regression Analysis:
+
+[Linear Regression Starter Notebook](regression_analysis.ipynb)
 
 ### Steps taken for analysis:
 
